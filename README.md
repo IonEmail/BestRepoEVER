@@ -1,7 +1,7 @@
 # BestRepoEVER
 
-#Author
+# Author
 Emiliano Ramirez
 
-##What does it do?
+## What does it do?
 something cool I hope :)
